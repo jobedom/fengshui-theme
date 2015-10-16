@@ -2,6 +2,13 @@
 
 Dark custom UI theme for Sublime Text 2 and Sublime Text 3. Heavily based on [Soda Theme](http://buymeasoda.com/) by Ian Hill.
 
+**feng shui**
+/fɛŋ ˈʃuːi,ˌfʌŋ ˈʃweɪ/
+_noun_
+A system of laws considered to govern spatial arrangement and orientation in relation to the flow of energy (chi), and whose favourable or unfavourable effects are taken into account when designing.
+
+Work on a canvas as free and clean as possible. Let the water and the air flow.
+
 Project site: [https://github.com/jobedom/fengshui-theme/](https://github.com/jobedom/fengshui-theme)
 
 ## Design
