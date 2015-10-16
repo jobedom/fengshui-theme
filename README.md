@@ -6,9 +6,9 @@ Project site: [https://github.com/jobedom/fengshui-theme/](https://github.com/jo
 
 ## Design
 
-![Fengshui Theme - Screenshot 1](https://github.com/jobedom/fengshui-theme/screenshots/screenshot1.png)
-![Fengshui Theme - Screenshot 2](https://github.com/jobedom/fengshui-theme/screenshots/screenshot2.png)
-![Fengshui Theme - Screenshot 3](https://github.com/jobedom/fengshui-theme/screenshots/screenshot3.png)
+![Fengshui Theme - Screenshot 1](https://raw.githubusercontent.com/jobedom/fengshui-theme/master/screenshots/screenshot1.png)
+![Fengshui Theme - Screenshot 2](https://raw.githubusercontent.com/jobedom/fengshui-theme/master/screenshots/screenshot2.png)
+![Fengshui Theme - Screenshot 3](https://raw.githubusercontent.com/jobedom/fengshui-theme/master/screenshots/screenshot3.png)
 
 ## Installation
 
