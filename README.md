@@ -86,7 +86,13 @@ Fengshui Theme has been designed to take advantage of retina resolution (high-dp
 
 ### Scheme and fonts
 
-The Fengshui screenshots use a custom version of Baara Dark scheme adapted for Fengshui Theme. The code font shown in the screenshots is Fira Mono.
+The Fengshui screenshots use an included custom version of Baara Dark scheme, named Fengshui and adapted for Fengshui Theme. To use it, include the following in your user settings.
+
+    {
+        "color_scheme": "Packages/Theme - Fengshui/Fengshui.tmTheme"
+    }
+
+The code font shown in the screenshots is Fira Mono.
 
 ## License
 
