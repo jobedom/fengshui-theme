@@ -17,6 +17,16 @@ Project site: [https://github.com/jobedom/fengshui-theme/](https://github.com/jo
 ![Fengshui Theme - Screenshot 2](https://raw.githubusercontent.com/jobedom/fengshui-theme/master/screenshots/screenshot2.png)
 ![Fengshui Theme - Screenshot 3](https://raw.githubusercontent.com/jobedom/fengshui-theme/master/screenshots/screenshot3.png)
 
+### Scheme and font
+
+The Fengshui screenshots use an included custom version of [Baara Dark scheme](https://packagecontrol.io/packages/Color%20Scheme%20-%20Baara%20Dark), also named *Fengshui* and adapted for Fengshui Theme. It's recommended to use it with the theme, including the following in your user settings.
+
+    {
+        "color_scheme": "Packages/Theme - Fengshui/Fengshui.tmTheme"
+    }
+
+The code font shown in the screenshots is [Fira Mono](https://mozilla.github.io/Fira/).
+
 ## Installation
 
 Fengshui theme is designed to work with the latest development builds of Sublime Text, including [Sublime Text 2](http://www.sublimetext.com/dev) and [Sublime Text 3](http://www.sublimetext.com/3dev).
@@ -81,18 +91,6 @@ By default, a square tab style is used. If you'd prefer to use the original curv
 ### Retina Resolution UI
 
 Fengshui Theme has been designed to take advantage of retina resolution (high-dpi) displays.
-
-## Bonus Options
-
-### Scheme and fonts
-
-The Fengshui screenshots use an included custom version of Baara Dark scheme, named Fengshui and adapted for Fengshui Theme. To use it, include the following in your user settings.
-
-    {
-        "color_scheme": "Packages/Theme - Fengshui/Fengshui.tmTheme"
-    }
-
-The code font shown in the screenshots is Fira Mono.
 
 ## License
 
