@@ -1103,7 +1103,17 @@
         "layer0.texture": "Theme - Fengshui/theme/icon-buffer-on.png"
     },
 
-//
+// panel switcher
+ {
+   "class": "panel_button_control",
+   "layer0.opacity": 0.2
+ },
+ {
+   "class": "panel_button_control",
+   "attributes": ["hover"],
+   "layer0.opacity": 0.4
+ },
+ //
 // BOTTOM PANEL ICONS - GROUP 2
 //
 
